@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNKgFW2y/CNC-PASTO.png" group-title="❇️ CNC PASTO ❇️ ",➾ ❇️ |CNC PASTO HD
-https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq4ZCSvn/GALERAS-TV.png" group-title="❇️ CNC PASTO ❇️ ",➾ ❇️ |CNC PASTO GALERAS TV HD
-https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jncpmx5h/CNC-HITS-CHANNEL.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO HITS CHANNEL HD
-https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLHnNtL5/CNC-SENTIMIENTO-VALLENATO.png" group-title="❇️ CNC PASTO❇️ ",➾ ❇️ |CNC PASTO SENTIMIENTO VALLENATO HD
-https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsC7bHmF/CNC-SON-CORAZON.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON CORAZON HD
-https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON LATINO HD
-https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0hMtmw8/SON-POPULAR.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON POPULAR HD
-https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS | JULIO 15
 http://190.61.55.186:1010/play/a00n/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/RFFBSmrf/Win-Sports-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽|001 WIN SPORTS PLUS | NOVIEMBRE-05
