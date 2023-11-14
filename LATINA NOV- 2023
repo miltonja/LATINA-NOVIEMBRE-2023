@@ -31,10 +31,6 @@ http://190.61.44.122:8000/play/a03u/index.m3u8
 http://152.200.187.238:1010/play/a03o/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/ZKKM7YgT/win-sports-verde.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://179.1.201.133:54986/play/a06y/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/y63jNpSc/WIN-SPORTS-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
-http://177.234.242.106:50032/play/a0hf/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/y63jNpSc/WIN-SPORTS-FUCSIA.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
-http://177.234.242.100:50032/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
 http://181.119.66.30:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/XNLm3y6M/win-sports-azul-celeste.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN SPORTS PLUS | OCTUBRE 14
@@ -49,8 +45,6 @@ http://181.78.67.178:1010/play/a03q/index.m3u8
 http://200.69.73.34:9543/play/a06c/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS-SEPT-08
 http://186.148.183.242:5800/play/a0d7/index.m3u8
-#EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS-SEPT-01
-http://177.234.242.209:50032/play/a0hf/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽| WIN PLUS-SEPT-01
 http://177.234.247.66:8888/play/a02g/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS PLUS" tvg-logo="https://i.postimg.cc/fyzPmMXg/win-sports-azul.png" group-title="⚽WIN SPORTS PLUS⚽",➾ ⚽ | WIN PLUS-SEPT-01
@@ -91,19 +85,19 @@ http://181.78.67.178:1010/play/a01e/index.m3u8
 http://186.148.183.242:5800/play/a0dg/index.m3u8
 #EXTINF:-1 tvg-name="⚽|WIN SPORTS " tvg-logo="https://i.postimg.cc/PJ5VtYmS/winsports-fondo.png" group-title="⚽ WIN SPORTS ⚽",➾ ⚽ | WIN SPORTS SEP-08
 http://186.148.183.242:5800/play/a0ht/index.m3u8
-#EXTINF:-1 tvg-id="❇️ |CNC PASTO" tvg-logo="https://i.postimg.cc/SNKgFW2y/CNC-PASTO.png" group-title="❇️ CNC PASTO ❇️ ",➾ ❇️ |CNC PASTO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNKgFW2y/CNC-PASTO.png" group-title="❇️ CNC PASTO ❇️ ",➾ ❇️ |CNC PASTO HD
 https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
-#EXTINF:-1 tvg-id="❇️ |GALERAS TV" tvg-logo="https://i.postimg.cc/qq4ZCSvn/GALERAS-TV.png" group-title="❇️ CNC PASTO ❇️ ",➾ ❇️ |CNC PASTO GALERAS TV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq4ZCSvn/GALERAS-TV.png" group-title="❇️ CNC PASTO ❇️ ",➾ ❇️ |CNC PASTO GALERAS TV HD
 https://hvtraficonew.ddns.net/pastocnc8/cnc8/playlist.m3u8
-#EXTINF:-1 tvg-id="❇️ |HITS CHANNEL" tvg-logo="https://i.postimg.cc/Jncpmx5h/CNC-HITS-CHANNEL.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO HITS CHANNEL 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jncpmx5h/CNC-HITS-CHANNEL.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO HITS CHANNEL HD
 https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8
-#EXTINF:-1 tvg-id="❇️ |SENTIMIENTO VALLENATO" tvg-logo="https://i.postimg.cc/CLHnNtL5/CNC-SENTIMIENTO-VALLENATO.png" group-title="❇️ CNC PASTO❇️ ",➾ ❇️ |CNC PASTO SENTIMIENTO VALLENATO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLHnNtL5/CNC-SENTIMIENTO-VALLENATO.png" group-title="❇️ CNC PASTO❇️ ",➾ ❇️ |CNC PASTO SENTIMIENTO VALLENATO HD
 https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
-#EXTINF:-1 tvg-id="❇️ |SON CORAZON" tvg-logo="https://i.postimg.cc/HsC7bHmF/CNC-SON-CORAZON.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON CORAZON 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsC7bHmF/CNC-SON-CORAZON.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON CORAZON HD
 https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
-#EXTINF:-1 tvg-id="❇️ |SON LATINO" tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON LATINO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHLpHyq/Canal-CNC-Son-Latino-tvtolive-com.jpg" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON LATINO HD
 https://hvtraficonew.ddns.net/pastocnc2/cnc2/playlist.m3u8
-#EXTINF:-1 tvg-id="❇️ | CNC SON POPULAR " tvg-logo="https://i.postimg.cc/g0hMtmw8/SON-POPULAR.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON POPULAR 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0hMtmw8/SON-POPULAR.png" group-title="❇️ CNC PASTO ❇️",➾ ❇️ |CNC PASTO SON POPULAR HD
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-id="⭐ A+ CINEMA HD TV "tvg-name="⭐ A+ CINEMA HD TV "tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6204324db9f7af67191d94a3"group-title="⭐PELICULAS⭐",⭐|➾ A+ CINEMA HD TV
 https://d3e900fnvjyq99.cloudfront.net/d/JWBCCOQICVYX608BU1QH/hls3/now_-1m_15s/m.m3u8?ads.vast_id=657287
@@ -129,7 +123,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-name="⚽|STRONGMAN CHAMPIONS LEGUE "tvg-logo="https://i.postimg.cc/J7cYxfJj/STRONGMAN-CHAMPIONS.png"group-title="⚽DEPORTES⚽",⚽STRONGMAN CHAMPIONS LEGUE + HD
 https://i.mjh.nz/SamsungTVPlus/ATBA3300010PU.m3u8
-#EXTINF:-1 tvg-id="🌟 LATINA TV" group-title="🌟 PERU 🌟tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",🌟 |➾ LATINA TV
+#EXTINF:-1 tvg-id="🌟 LATINA TV" group-title="🌟 PERU 🌟tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",🌟 |➾ LATINA TV HD
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-id="🌟 LATINA TV" group-title="🌟 PERU 🌟" tvg-logo="https://i.postimg.cc/XN2RZ4r9/LATINA-TV.png",🌟 |➾ LATINA TV PERU HD
 http://201.222.44.220:4227/play/a02h/index.m3u8
@@ -139,7 +133,7 @@ http://177.53.155.236:8000/play/a00r/index.m3u8
 http://200.24.206.132:8000/play/a0b6/index.m3u8
 #EXTINF:-1 tvg-id="🌟 AMERICA TV" group-title="🌟PERU 🌟" tvg-logo="https://i.postimg.cc/6ppvxzJ0/image.png",🌟 |➾AMERICA TV PERU HD
 http://177.53.155.236:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="⭐ GOLDEN PLUS TV "tvg-name=" GOLDEN PLUS TV "tvg-logo="https://i.postimg.cc/LXJsHP6k/golden-plus.png"group-title="⭐PELICULAS⭐",⭐|➾GOLDEN PLUS TV HD
+#EXTINF:-1 tvg-id="⭐ GOLDEN PLUS TV "tvg-name="⭐ GOLDEN PLUS TV "tvg-logo="https://i.postimg.cc/LXJsHP6k/golden-plus.png"group-title="⭐PELICULAS⭐",⭐|➾GOLDEN PLUS TV HD
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="🌍 INTERNACIONALES🌍"tvg-name="🌍TELEMUNDO"tvg-logo="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",🌍|➾TELEMUNDO TV  HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
